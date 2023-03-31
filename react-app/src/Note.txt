@@ -1,0 +1,5 @@
+  
+  Using Hook (useState)
+  const arr = useState(-1);
+  arr[0] // avariable (selectedIndex)
+  arr[1] // updater function
